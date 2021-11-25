@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B779475B-ED3F-4FCC-BDD0-C64D87FDBF78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovies/Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="RazorPagesMovies/Models/Movie.cs" Line="17" Column="1" />
+      <File FileName="RazorPagesMovies/Pages/Index.cshtml" Line="12" Column="1" />
+      <File FileName="RazorPagesMovies/Pages/Shared/_Layout.cshtml" Line="40" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovies" expanded="True">
+            <Node name="RazorPagesMovies" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovies PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
