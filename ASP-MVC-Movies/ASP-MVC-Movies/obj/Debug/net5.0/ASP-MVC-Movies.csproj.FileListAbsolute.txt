@@ -8,7 +8,6 @@
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/bin/Debug/net5.0/ASP-MVC-Movies.pdb
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/bin/Debug/net5.0/ASP-MVC-Movies.Views.dll
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/bin/Debug/net5.0/ASP-MVC-Movies.Views.pdb
-/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.csproj.AssemblyReference.cache
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.GeneratedMSBuildEditorConfig.editorconfig
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.AssemblyInfoInputs.cache
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.AssemblyInfo.cs
@@ -37,3 +36,4 @@
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.pdb
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.genruntimeconfig.cache
 /Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.csproj.CopyComplete
+/Users/amirmohamed/Desktop/YEAR 2 UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/Debug/net5.0/ASP-MVC-Movies.csproj.AssemblyReference.cache
