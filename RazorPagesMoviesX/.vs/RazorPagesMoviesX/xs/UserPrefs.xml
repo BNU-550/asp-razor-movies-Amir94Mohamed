@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E8B73B83-B418-42A0-BF61-C5CB2DC4579D}|Default">
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMoviesX PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMoviesX/Models/Movie.cs">
+    <Files>
+      <File FileName="RazorPagesMoviesX/Models/Movie.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMoviesX" expanded="True">
+            <Node name="RazorPagesMoviesX" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
