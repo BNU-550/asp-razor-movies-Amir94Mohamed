@@ -167,5 +167,4 @@
 /Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/RazorPagesMovies/RazorPagesMovies/obj/Debug/net5.0/ref/RazorPagesMovies.dll
 /Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/RazorPagesMovies/RazorPagesMovies/obj/Debug/net5.0/RazorPagesMovies.pdb
 /Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/RazorPagesMovies/RazorPagesMovies/obj/Debug/net5.0/RazorPagesMovies.genruntimeconfig.cache
-/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/RazorPagesMovies/RazorPagesMovies/bin/Debug/net5.0/RazorPagesMovies
 /Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/RazorPagesMovies/RazorPagesMovies/obj/Debug/net5.0/RazorPagesMovies.csproj.AssemblyReference.cache
