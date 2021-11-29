@@ -15,6 +15,7 @@
                 <Node name="Movies" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
