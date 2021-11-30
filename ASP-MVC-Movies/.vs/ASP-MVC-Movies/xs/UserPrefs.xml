@@ -1,23 +1,23 @@
 ﻿<Properties StartupConfiguration="{35F49765-B687-45FF-A737-8A5A9BE667B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Models/Movies.cs..cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Controllers/HelloWorldController.cs">
     <Files>
       <File FileName="ASP-MVC-Movies/Views/Shared/_Layout.cshtml" Line="49" Column="2" />
       <File FileName="ASP-MVC-Movies/Views/Home/Index.cshtml" Line="10" Column="2" />
       <File FileName="ASP-MVC-Movies/Views/Home/Privacy.cshtml" />
       <File FileName="ASP-MVC-Movies/Views/HelloWorld/Index.cshtml" Line="7" Column="37" />
-      <File FileName="ASP-MVC-Movies/Controllers/HelloWorldController.cs" Line="21" Column="2" />
       <File FileName="ASP-MVC-Movies/Views/HelloWorld/Welcome.cshtml" Line="12" Column="6" />
-      <File FileName="ASP-MVC-Movies/Models/Movies.cs..cs" Line="16" Column="2" />
+      <File FileName="ASP-MVC-Movies/Models/Movies.cs..cs" Line="17" Column="1" />
+      <File FileName="ASP-MVC-Movies/Controllers/HelloWorldController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ASP-MVC-Movies" expanded="True">
             <Node name="ASP-MVC-Movies" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Movies.cs..cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloWorldController.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="HelloWorld" expanded="True" />
