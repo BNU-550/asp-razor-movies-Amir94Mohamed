@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F0mEzl2PVsw53BhVxrn2cjrCZnPhYkl4kyPKEXreCHFhmeMFg9UhnKpGYe3uMOZDVPwzrAROHBEEY7EuY6Mj5A==",
+  "dgSpecHash": "Fr1rS6/WiuFIENcnqnmGbJzFe933TIhCy5u/FmTGRNPzdZR1f+6GXQ9hzeNOc9f7rm5FDFje1g2ap+AfdiLGDg==",
   "success": true,
   "projectFilePath": "/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/ASP-MVC-Movies.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "/Users/amirmohamed/.nuget/packages/microsoft.entityframeworkcore.sqlite/3.1.0/microsoft.entityframeworkcore.sqlite.3.1.0.nupkg.sha512",
     "/Users/amirmohamed/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/3.1.0/microsoft.entityframeworkcore.sqlite.core.3.1.0.nupkg.sha512",
     "/Users/amirmohamed/.nuget/packages/microsoft.entityframeworkcore.sqlserver/3.1.0/microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512",
+    "/Users/amirmohamed/.nuget/packages/microsoft.entityframeworkcore.tools/3.1.0/microsoft.entityframeworkcore.tools.3.1.0.nupkg.sha512",
     "/Users/amirmohamed/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.0/microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
     "/Users/amirmohamed/.nuget/packages/microsoft.extensions.caching.memory/3.1.0/microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
     "/Users/amirmohamed/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",

@@ -36,6 +36,7 @@
           "Microsoft.EntityFrameworkCore.Design": "3.1.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.0",
+          "Microsoft.EntityFrameworkCore.Tools": "3.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -780,6 +781,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/3.1.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "3.1.0"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/3.1.0": {
@@ -4063,6 +4069,13 @@
       "sha512": "sha512-907i9yQgBbnIqMeqP32hOSUz35sMV3l16GqmKhUvi96/iCaMcT/GM2CUvtT5cJBkr1VLi4/82ZGVPHISacfoag==",
       "path": "microsoft.entityframeworkcore.sqlserver/3.1.0",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b209nM8vHZXKG6hqZH2cYLpSVEmty9aDZf2gcYyJhpaEhf94AGdRfh8mlZCclJudjk07B37ebRysT1G//0IRzQ==",
+      "path": "microsoft.entityframeworkcore.tools/3.1.0",
+      "hashPath": "microsoft.entityframeworkcore.tools.3.1.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/3.1.0": {
       "type": "package",
