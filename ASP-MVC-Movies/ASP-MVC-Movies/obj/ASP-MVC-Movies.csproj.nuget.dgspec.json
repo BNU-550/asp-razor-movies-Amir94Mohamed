@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amirm\\OneDrive\\Desktop\\WebApps\\RazorPMovies\\ASP-MVC-Movies\\ASP-MVC-Movies\\ASP-MVC-Movies.csproj": {}
+    "/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/ASP-MVC-Movies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amirm\\OneDrive\\Desktop\\WebApps\\RazorPMovies\\ASP-MVC-Movies\\ASP-MVC-Movies\\ASP-MVC-Movies.csproj": {
+    "/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/ASP-MVC-Movies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amirm\\OneDrive\\Desktop\\WebApps\\RazorPMovies\\ASP-MVC-Movies\\ASP-MVC-Movies\\ASP-MVC-Movies.csproj",
+        "projectUniqueName": "/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/ASP-MVC-Movies.csproj",
         "projectName": "ASP-MVC-Movies",
-        "projectPath": "C:\\Users\\amirm\\OneDrive\\Desktop\\WebApps\\RazorPMovies\\ASP-MVC-Movies\\ASP-MVC-Movies\\ASP-MVC-Movies.csproj",
-        "packagesPath": "C:\\Users\\amirm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amirm\\OneDrive\\Desktop\\WebApps\\RazorPMovies\\ASP-MVC-Movies\\ASP-MVC-Movies\\obj\\",
+        "projectPath": "/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/ASP-MVC-Movies.csproj",
+        "packagesPath": "/Users/amirmohamed/.nuget/packages/",
+        "outputPath": "/Users/amirmohamed/Desktop/YEAR-2-UNI/CO550/asp-razor-movies-Amir94Mohamed/ASP-MVC-Movies/ASP-MVC-Movies/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amirm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/amirmohamed/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.12, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -66,7 +64,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -79,24 +77,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.12, 5.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -105,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
