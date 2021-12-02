@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{B779475B-ED3F-4FCC-BDD0-C64D87FDBF78}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovies/RazorPagesMovies.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovies/Data/RazorPagesMoviesContext.cs">
     <Files>
       <File FileName="RazorPagesMovies/Pages/Index.cshtml" Line="12" Column="1" />
       <File FileName="RazorPagesMovies/Program.cs" />
-      <File FileName="RazorPagesMovies/RazorPagesMovies.csproj" Line="31" Column="1" />
+      <File FileName="RazorPagesMovies/RazorPagesMovies.csproj" Line="33" Column="1" />
+      <File FileName="RazorPagesMovies/Data/RazorPagesMoviesContext.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,12 +15,13 @@
                 <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Data" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="RazorPagesMoviesContext.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Movies" expanded="True" />
                 <Node name="Shared" expanded="True" />
-                <Node name="Index.cshtml" selected="True" />
               </Node>
             </Node>
           </Node>
