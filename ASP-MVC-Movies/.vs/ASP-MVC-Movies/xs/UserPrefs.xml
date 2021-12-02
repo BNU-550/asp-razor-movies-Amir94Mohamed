@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{35F49765-B687-45FF-A737-8A5A9BE667B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Views/HelloWorld/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Views/Movies/Edit.cshtml">
     <Files>
-      <File FileName="ASP-MVC-Movies/Views/Shared/_Layout.cshtml" Line="49" Column="2" />
-      <File FileName="ASP-MVC-Movies/Views/Home/Index.cshtml" />
-      <File FileName="ASP-MVC-Movies/Views/Home/Privacy.cshtml" />
-      <File FileName="ASP-MVC-Movies/Views/HelloWorld/Index.cshtml" Line="7" Column="37" />
-      <File FileName="ASP-MVC-Movies/Views/HelloWorld/Welcome.cshtml" />
-      <File FileName="ASP-MVC-Movies/Controllers/HelloWorldController.cs" />
+      <File FileName="ASP-MVC-Movies/Models/SeedData.cs" Line="26" Column="56" />
+      <File FileName="ASP-MVC-Movies/Models/Movies.cs" Line="20" Column="2" />
+      <File FileName="ASP-MVC-Movies/Views/Movies/Index.cshtml" Line="55" Column="1" />
+      <File FileName="ASP-MVC-Movies/Startup.cs" Line="1" Column="1" />
+      <File FileName="ASP-MVC-Movies/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="ASP-MVC-Movies/Views/Movies/Edit.cshtml" Line="21" Column="9" />
+      <File FileName="ASP-MVC-Movies/Views/Movies/Edit.cshtml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +15,13 @@
           <Node name="ASP-MVC-Movies" expanded="True">
             <Node name="ASP-MVC-Movies" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="HelloWorld" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                <Node name="Movies" expanded="True">
+                  <Node name="Edit.cshtml" expanded="True" selected="True" />
+                  <Node name="Index.cshtml" expanded="True" />
                 </Node>
               </Node>
               <Node name="wwwroot" expanded="True" />
