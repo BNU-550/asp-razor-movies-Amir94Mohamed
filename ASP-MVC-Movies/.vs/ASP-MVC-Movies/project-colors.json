@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "35f49765-b687-45ff-a737-8a5a9be667b4": {
+      "ProjectGuid": "35f49765-b687-45ff-a737-8a5a9be667b4",
+      "DisplayName": "ASP-MVC-Movies",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
