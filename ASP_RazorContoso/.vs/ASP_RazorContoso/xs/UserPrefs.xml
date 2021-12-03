@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D7070CB8-079E-4DFB-8547-62487D9B8A4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP_RazorContoso/Program.cs">
+    <Files>
+      <File FileName="ASP_RazorContoso/Program.cs" Line="5" Column="21" />
+      <File FileName="ASP_RazorContoso/Data/DbInitializer.cs" Line="5" Column="1" />
+      <File FileName="ASP_RazorContoso/WebApplication.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP_RazorContoso" expanded="True">
+            <Node name="ASP_RazorContoso" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Students" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Details.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ASP__RazorContoso PreferredExecutionTarget="/Applications/Opera.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
