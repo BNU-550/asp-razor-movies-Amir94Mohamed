@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Views\HelloWorld\" />
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
@@ -16,7 +15,6 @@
     <None Remove="Microsoft.Data.Sqlite.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\HelloWorld\" />
     <Folder Include="Views\Movies\" />
   </ItemGroup>
   <ItemGroup>

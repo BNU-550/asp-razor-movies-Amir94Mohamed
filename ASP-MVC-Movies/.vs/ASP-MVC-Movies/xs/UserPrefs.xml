@@ -1,30 +1,25 @@
 ﻿<Properties StartupConfiguration="{35F49765-B687-45FF-A737-8A5A9BE667B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Views/Movies/Edit.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Controllers/HelloWorldController.cs">
     <Files>
-      <File FileName="ASP-MVC-Movies/Models/SeedData.cs" Line="26" Column="56" />
-      <File FileName="ASP-MVC-Movies/Models/Movies.cs" Line="20" Column="2" />
-      <File FileName="ASP-MVC-Movies/Views/Movies/Index.cshtml" Line="55" Column="1" />
-      <File FileName="ASP-MVC-Movies/Startup.cs" Line="1" Column="1" />
-      <File FileName="ASP-MVC-Movies/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="ASP-MVC-Movies/Views/Movies/Edit.cshtml" Line="21" Column="9" />
-      <File FileName="ASP-MVC-Movies/Views/Movies/Edit.cshtml.cs" Line="1" Column="1" />
+      <File FileName="ASP-MVC-Movies/Controllers/HelloWorldController.cs" Line="7" Column="6" />
+      <File FileName="ASP-MVC-Movies/Views/Movies/Index.cshtml" Line="8" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ASP-MVC-Movies" expanded="True">
             <Node name="ASP-MVC-Movies" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloWorldController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Movies" expanded="True">
-                  <Node name="Edit.cshtml" expanded="True" selected="True" />
-                  <Node name="Index.cshtml" expanded="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
