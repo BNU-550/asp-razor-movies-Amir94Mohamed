@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{35F49765-B687-45FF-A737-8A5A9BE667B4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ASP-MVC-Movies/Controllers/HelloWorldController.cs">
     <Files>
-      <File FileName="ASP-MVC-Movies/Controllers/HelloWorldController.cs" Line="7" Column="6" />
+      <File FileName="ASP-MVC-Movies/Controllers/HelloWorldController.cs" Line="21" Column="2" />
       <File FileName="ASP-MVC-Movies/Views/Movies/Index.cshtml" Line="8" Column="15" />
     </Files>
     <Pads>
@@ -9,14 +9,12 @@
         <State name="__root__">
           <Node name="ASP-MVC-Movies" expanded="True">
             <Node name="ASP-MVC-Movies" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HelloWorldController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
-                <Node name="Movies" expanded="True" />
+                <Node name="Movies" expanded="True" selected="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
